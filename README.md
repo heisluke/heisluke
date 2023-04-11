@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 My name is Luke and this is still under construction ^_^
 
-[![Lukes's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisluke)]
+![Lukes's GitHub stats](https://github-readme-stats.vercel.app/api?username=heisluke)
